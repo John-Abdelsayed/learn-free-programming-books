@@ -15,6 +15,7 @@
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
     * [React.js](#reactjs)
+    * [Svelte](#svelte)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -32,6 +33,7 @@
 * [Security](#security)
 * [Spring](#spring)
 * [Swift](#swift)
+* [Unity](#unity)
 * [Unreal Engine](#unreal-engine)
 * [Web Development](#web-development)
 * [WebRTC](#webrtc)
@@ -68,12 +70,12 @@
 
 ### C/C++
 
+* [(개정판) C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjreuGLbwYdkrCTXxfJIrmmA6) - 나도코딩
 * [두들낙서의 C/C++ 강좌](https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk)
 * [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
 * [씹어먹는 C](https://modoocode.com/231) - 이재범
 * [씹어먹는 C++](https://modoocode.com/135) - 이재범
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
-* [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
 
@@ -102,6 +104,8 @@
 
 ### Git
 
+* [12가지 명령어로 배우는 Git](https://www.youtube.com/playlist?list=PLcqDmjxt30RvjqpIBi4mtkK5LkzYtXluF) - ZeroCho TV
+* [유튜브로 배우는 코딩 Git 강좌](https://www.youtube.com/playlist?list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM) - 영욱 스튜디오
 * [GIT1](https://www.opentutorials.org/course/3837) - 생활코딩
 
 
@@ -142,8 +146,16 @@
 * [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB) - 동빈나
 
 
+#### Svelte
+
+* [Svelte.js 입문 가이드](https://www.inflearn.com/course/%EC%8A%A4%EB%B2%A8%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/dashboard) - HEROPY (Inflearn)
+* [SvelteKit(스벨트킷) 튜토리얼 Part.1](https://www.youtube.com/playlist?list=PL2Y878eUwQK4ZhfQfVdxS9yYdQlnfDInm) - 코딩셀러
+* [SvelteKit(스벨트킷) 튜토리얼 Part.2](https://www.youtube.com/playlist?list=PL2Y878eUwQK6XN8emWcHFStBy-28bg_pM) - 코딩셀러
+
+
 ### Kotlin
 
+* [디모의 Kotlin 강좌](https://www.youtube.com/playlist?list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN) - 테크과학! DiMo
 * [안드로이드 코틀린 기초 강좌](https://www.youtube.com/playlist?list=PLva6rQOdsvQU7QJIg2RHM9wcT11X1S0pj) - 센치한 개발자
 
 
@@ -195,6 +207,7 @@
 
 ### Python
 
+* [파이썬 실전 프로젝트](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdqJ1rJba9MFWYv-GHluK4_) - 나도코딩
 * [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 * [MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [Python 입문자용 초급](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD8u2rzxmQ-L97jHTHiiDdy)
@@ -236,7 +249,7 @@
 
 ### Spring
 
-* [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) (김영한)
+* [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) - 김영한 (Inflearn)
 
 
 ### Swift
@@ -249,6 +262,7 @@
 * [유니티 강좌 (초급)](https://www.youtube.com/playlist?list=PLC2Tit6NyViewOPACJai5zNAfZuUW8aYq) - 고박사의 유니티 노트
 * [유니티 기초 강좌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2) - 골드메달
 * [유니티 기초 벡서라이크 언데드서바이벌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjf6i3x) - 골드메달
+* [유니티 초보 강의 + 실전 프로젝트](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdcdM4RcpGni9OLv-xy8FiB) - 나도코딩
 
 
 ### Unreal Engine
